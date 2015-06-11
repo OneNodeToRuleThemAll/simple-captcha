@@ -1,10 +1,10 @@
 {
-   "name":"captchagen",
-   "description":"Captcha generator",
-   "version":"1.1.0",
-   "homepage":"http://github.com/wearefractal/captchagen",
-   "repository":"git://github.com/wearefractal/captchagen.git",
-   "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+   "name":"simple-captcha",
+   "description":"Simple Captcha generator",
+   "version":"0.1.0",
+   "homepage":"https://github.com/OneNodeToRuleThemAll/simple-captcha",
+   "repository":"https://github.com/OneNodeToRuleThemAll/simple-captcha.git",
+   "author":"calidion<calidion@gmail.com>",
    "main":"./index.js",
    
    "dependencies":{
@@ -22,8 +22,7 @@
    },
    "licenses":[
       {
-         "type":"MIT",
-         "url":"http://github.com/wearefractal/captchagen/raw/master/LICENSE"
+         "type":"MIT"
       }
    ]
 }
