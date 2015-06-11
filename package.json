@@ -1,7 +1,7 @@
 {
    "name":"simple-captcha",
    "description":"Simple Captcha generator",
-   "version":"0.1.0",
+   "version":"0.1.2",
    "homepage":"https://github.com/OneNodeToRuleThemAll/simple-captcha",
    "repository":"https://github.com/OneNodeToRuleThemAll/simple-captcha.git",
    "author":"calidion<calidion@gmail.com>",

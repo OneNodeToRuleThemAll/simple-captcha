@@ -23,10 +23,11 @@ module.exports = {
   // use default settings
   create: function (opt) {
     var cap = new Captcha(opt);
-    cap.use(drawBackground);
+    //cap.use(drawBackground);
+    //cap.use(drawLines);
     cap.use(drawLines);
     cap.use(drawText);
-    cap.use(drawLines);
+
     return cap;
   }
 };
